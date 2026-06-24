@@ -4,9 +4,10 @@ I build Claude agents that are reliable enough to ship — eval harnesses that s
 
 ---
 
-### OSS
+### Open-source Contributions
 
 - [`langwatch/scenario`](https://github.com/langwatch/scenario) — contributed to the agent eval testing framework
+- ...
 
 ---
 
