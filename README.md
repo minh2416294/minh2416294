@@ -11,7 +11,8 @@ I specialize in designing the controls that **make multi-agent systems trustwort
 
 ### Find me
 
-[Blog](https://minh2416294.github.io) &nbsp;·&nbsp;
+[X/Twitter](https://x.com/tbmkunn_) &nbsp;·&nbsp;
 [Discord](https://discord.com/users/1477770162491887809) &nbsp;·&nbsp;
+[Reddit](https://x.com/tbmkunn_) &nbsp;·&nbsp;
 [Email](mailto:minh2416294@gmail.com) &nbsp;·&nbsp;
 [Phone](https://wa.me/84396065999)
