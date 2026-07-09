@@ -5,6 +5,8 @@ I make multi-agent and agentic coding systems safe by design, turning nebulous p
 
 - OSS Contributions: https://minh2416294.github.io/contributions/
 
+- Build Log: ...
+
 - Engineering Notes: https://minh2416294.github.io/posts/
 
 ---
