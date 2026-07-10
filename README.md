@@ -3,7 +3,7 @@ I make **multi-agent** and **agentic coding systems** safe by design, turning ab
 
 🟢 **Open to remote contract work** · **agentic-coding reliability**: correctness fixes, trace evaluation, and guardrails for teams shipping coding agents. ~40 hours/week, async-first, UTC+7 with EU/US-morning overlap. Email: minh2416294@gmail.com
 
-- Build Log: https://minh2416294.github.io/projects/
+- Projects and Build Logs: https://minh2416294.github.io/projects/
 
 - Open-Source Contributions: https://minh2416294.github.io/contributions/
 
@@ -15,5 +15,4 @@ I make **multi-agent** and **agentic coding systems** safe by design, turning ab
 
 [X/Twitter](https://x.com/tbmkunn_) &nbsp;·&nbsp;
 [Discord](https://discord.com/users/1477770162491887809) &nbsp;·&nbsp;
-[Reddit](https://x.com/tbmkunn_) &nbsp;·&nbsp;
-[Email](mailto:minh2416294@gmail.com)
+[Reddit](https://x.com/tbmkunn_)
